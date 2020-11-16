@@ -15,8 +15,4 @@ class Post(models.Model):
         self.save()
 
     def __str__(self):
-<<<<<<< HEAD
         return self.title
-=======
-        return self.title
->>>>>>> 144d586a5f503fa050f7e0f631843fa2d6ed779c
